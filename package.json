@@ -1,0 +1,23 @@
+{
+  "name": "entregas-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaJoseLop96/backend-LoperfidoMaria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaJoseLop96/backend-LoperfidoMaria/issues"
+  },
+  "homepage": "https://github.com/MariaJoseLop96/backend-LoperfidoMaria#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
