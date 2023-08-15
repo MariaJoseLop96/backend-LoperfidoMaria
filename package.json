@@ -20,6 +20,8 @@
   "homepage": "https://github.com/MariaJoseLop96/backend-LoperfidoMaria#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "express-handlebars": "^7.1.2",
+    "socket.io": "^4.7.2" 
   }
 }
